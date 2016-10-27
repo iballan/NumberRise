@@ -3,10 +3,14 @@ NumberRiseTextView
 
 [![](https://jitpack.io/v/iballan/RateDialog.svg)](https://jitpack.io/#iballan/RateDialog)
 
-## RateDialog will allow you to prompt a message to users helping them to Rate you app
+## Showing numbers in a NOT boring way
+
+
 
 Screenshots:
 --------
+
+![Screenshots/screenshot1](https://raw.githubusercontent.com/iballan/NumberRise/master/screenshots/Animation.gif) 
 
 
 Usage :
